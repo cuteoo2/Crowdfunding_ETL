@@ -35,7 +35,7 @@ CREATE TABLE "campaign" (
     "company_name" varchar(300)   NOT NULL,
     "description" varchar(300)   NOT NULL,
     "goal" float   NOT NULL,
-    "pledged" numeric   NOT NULL,
+    "pledged" float   NOT NULL,
     "outcome" varchar(300)   NOT NULL,
     "backers_count" int   NOT NULL,
     "country" varchar(300)   NOT NULL,
