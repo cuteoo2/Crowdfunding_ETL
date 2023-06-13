@@ -8,6 +8,8 @@ ETL (Extract, Transform and Load) data processing is an automated procedure that
 
 
 
+
+
 - Instructions
 
 The instructions for this mini project are divided into the following subsections:
@@ -19,6 +21,8 @@ Create the Campaign DataFrame
 Create the Contacts DataFrame
 
 Create the Crowdfunding Database
+
+
 
 
 
@@ -38,6 +42,8 @@ Create and populate PostgreSQL database tables
 
 
 
+
+
 - Data
 
 
@@ -51,6 +57,8 @@ category.csv
 subcategory.csv
 contacts.csv
 campaign.csv
+
+
 
 
 - Outcome
