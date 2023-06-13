@@ -27,9 +27,13 @@ Create the Crowdfunding Database
 
 Utilize Python and Pandas in order to:
 Extract and transform crowdfunding and contact data from Excel files
+
 Create and export Category, Subcategory, Campaign, and Contact DataFrames as CSV files
+
 Utilize PostgreSQL in order to:
+
 Design an ERD and table schema for the database
+
 Create and populate PostgreSQL database tables
 
 
