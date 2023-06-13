@@ -1,7 +1,3 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/7np4QF
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
 
 CREATE TABLE "Contacts" (
     "contact_id" int   NOT NULL,
