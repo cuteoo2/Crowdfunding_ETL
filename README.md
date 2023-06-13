@@ -49,4 +49,4 @@ campaign.csv
 - Outcome
 
 
-In this project, we have demonstrated the ETL pipeline utilizing Python, Pandas, and a combination of both Python dictionary and regular expression techniques for data extraction and transformation. We were able to successfully generate four CSV files (category.csv, subcategory.csv, contacts.csv, campaign.csv, and used the data in these files to design an ERD as well as table schema, then loaded the data into PostgresSQL database from the CSV files via dataframes.
+In this project, we have demonstrated the ETL pipeline utilizing Python, Pandas, and a combination of both Python dictionary and regular expression techniques for data extraction and transformation. We were able to successfully generate four CSV files (category.csv, subcategory.csv, contacts.csv, campaign.csv) and used the data in these files to design an ERD as well as table schema, then loaded the data into PostgresSQL database (Crowdfunding_db) from the CSV files via dataframes.
